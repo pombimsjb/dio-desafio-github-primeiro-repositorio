@@ -11,3 +11,9 @@ del -> apagar arquivos
 Comandos git
 
 git add . -> Para enviar arquivos
+git status -> puxar status dos arquivos locais
+git commit -m "Mensagem" -> faz um commit com comentário
+git push origin main -> envia o commit para o GitHub
+
+
+Finalizado arquivo Anotação.txt
