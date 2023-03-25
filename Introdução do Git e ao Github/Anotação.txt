@@ -1,0 +1,13 @@
+Os Comandos básicos para se usar no Git
+
+rmdir -> Para remover diretórios
+mkdir -> Para criar diretórios
+ls -> para listar arquivos e diretórios na pasta
+cd /e/ -> Navegar para o Disco ou pasta e/
+del -> apagar arquivos
+
+
+
+Comandos git
+
+git add . -> Para enviar arquivos
