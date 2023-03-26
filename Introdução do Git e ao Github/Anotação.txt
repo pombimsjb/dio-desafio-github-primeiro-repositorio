@@ -15,5 +15,7 @@ git commit -m "Mensagem" -> faz um commit com comentário
 git push origin main -> envia o commit para o GitHub
 git status -> puxar status dos arquivos locais
 
+##Instalação IDE Java
+Link do README (Camila GitHub)[http://github.com/cami-la/curso-dio-dominando-ides-java]
 
 Finalizado arquivo Anotação.txt
