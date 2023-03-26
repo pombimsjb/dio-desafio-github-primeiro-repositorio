@@ -1,0 +1,9 @@
+#Comandos IntelliJ
+
+- Digitar "main" e dar TAB -> cria o método main
+- Digitar "sout" e dar TAB -> traz a função System.out.println
+- Atalho: ( CTRL + SHIFT + F10 ) -> Rodar a função sem efetuar a configuração na aba.
+- Atalho: ( SHIFT + F10 ) -> Rodar uma função já configurada.
+- Atalho: ( CTRL + SHIFT + / ) -> Comentar toda um bloco selecionado.
+- Atalho: ( CTRL + / ) -> Comentar a linha.
+- Atalho: ( CTRL + Y ) -> Apagar a linha.
