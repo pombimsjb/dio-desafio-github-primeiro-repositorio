@@ -7,3 +7,16 @@
 - Atalho: ( CTRL + SHIFT + / ) -> Comentar toda um bloco selecionado.
 - Atalho: ( CTRL + / ) -> Comentar a linha.
 - Atalho: ( CTRL + Y ) -> Apagar a linha.
+- Atalho: ( CTRL + D ) -> Duplicar uma linha.
+- Atalho: ( SHIFT + F6 ) -> REFATORAR Classe
+- Atalho: ( SHIFT + F12 ) -> Ocultar barra lateral
+- Atalho: ( CTRL + ALT + L ) -> Organizar o código
+- Atalho: ( CTRL + SHIFT + Setinha acima ou abaixo ) -> Alterar posição da linha
+- Atalho: ( CTRL + ALT + V ) -> Criar a variável.
+- Atalho: ( CTRL + F4 ) -> Fechar aba
+- Atalho: ( CTRL + N ) Busca por classes
+- Atalho: ( CTRL + B) Entrar na classe selecionada
+
+
+Atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+Atalhos: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
